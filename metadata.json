@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Grand Maestro AI Piano",
+  "description": "A professional-grade virtual grand piano with AI-powered melody assistance and realistic sound synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
